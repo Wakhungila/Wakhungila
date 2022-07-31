@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wakhungila
 - 👀 I’m interested in Cyber Security and Web Development
-- 🌱 I’m currently learning Python Programming and software Engineering
-- 💞️ I’m looking to collaborate on Web Development and Python
+- 🌱 I’m currently learning Python Programming and Penetration Testing
+- 💞️ I’m looking to collaborate on Web Development,Pentesting and Python
 - 📫 How to reach me... Facebook -- Wakhungila Victor
 
 <!---
