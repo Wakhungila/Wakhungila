@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security and Web Development
 - 🌱 I’m currently learning Python Programming and Penetration Testing
 - 💞️ I’m looking to collaborate on Web Development,Pentesting and Python
-- 📫 How to reach me... Facebook -- Wakhungila Victor
+- 📫 How to reach me... Twitter -- @_Wakhoo_
 
 <!---
 Wakhungila/Wakhungila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
